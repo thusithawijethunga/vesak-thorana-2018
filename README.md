@@ -5,7 +5,7 @@
 [![Vesak Thorana](https://i.ytimg.com/vi/I05Q9c3mzoc/maxresdefault.jpg)](https://www.youtube.com/watch?v=I05Q9c3mzoc "Thorana 2018")
 
 ## Download
-[Last Release](https://github.com/thusithawijethunga/thorana_2018/archive/0.1.0.zip)  
+[Last Release](https://github.com/thusithawijethunga/vesak-thorana-2018/archive/0.1.0.zip)  
 
 ## System Requirement
 * Windows Operating system.
